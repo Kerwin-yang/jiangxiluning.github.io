@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://n-moving.com/2020/05/11/rooted-join-tree-construction/</loc>
+    <loc>https://n-moving.com/2020/05/12/back-prop/</loc>
     
-    <lastmod>2020-05-11T16:14:08.608Z</lastmod>
+    <lastmod>2020-05-16T06:37:26.464Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://n-moving.com/2020/05/12/back-prop/</loc>
+    <loc>https://n-moving.com/2020/05/11/rooted-join-tree-construction/</loc>
     
-    <lastmod>2020-05-11T16:11:41.697Z</lastmod>
+    <lastmod>2020-05-11T16:14:08.608Z</lastmod>
     
   </url>
   
@@ -30,20 +30,6 @@
   </url>
   
   <url>
-    <loc>https://n-moving.com/archives/index.html</loc>
-    
-    <lastmod>2020-05-10T12:16:04.442Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://n-moving.com/contact/index.html</loc>
-    
-    <lastmod>2020-05-10T12:16:04.442Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://n-moving.com/about/index.html</loc>
     
     <lastmod>2020-05-10T12:16:04.442Z</lastmod>
@@ -52,6 +38,20 @@
   
   <url>
     <loc>https://n-moving.com/categories/index.html</loc>
+    
+    <lastmod>2020-05-10T12:16:04.442Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://n-moving.com/archives/index.html</loc>
+    
+    <lastmod>2020-05-10T12:16:04.442Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://n-moving.com/contact/index.html</loc>
     
     <lastmod>2020-05-10T12:16:04.442Z</lastmod>
     

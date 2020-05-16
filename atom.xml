@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://n-moving.com/"/>
-  <updated>2020-05-11T16:11:41.697Z</updated>
+  <updated>2020-05-16T06:37:26.464Z</updated>
   <id>https://n-moving.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>back-prop</title>
+    <title>什么是反向传播算法</title>
     <link href="https://n-moving.com/2020/05/12/back-prop/"/>
     <id>https://n-moving.com/2020/05/12/back-prop/</id>
     <published>2020-05-11T16:10:37.000Z</published>
-    <updated>2020-05-11T16:11:41.697Z</updated>
+    <updated>2020-05-16T06:37:26.464Z</updated>
     
     <summary type="html">
     
